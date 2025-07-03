@@ -1,0 +1,24 @@
+# Temporary files created by editors
+*~
+*.swp
+*.bak
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Python cache files (if you use Python)
+__pycache__/
+*.pyc
+
+# Ignore compressed files folder if you want (optional)
+# compressed/
